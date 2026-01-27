@@ -4,12 +4,14 @@
 </p>
 
 ## Unit Outline              
-# ICT535
-# Scalable Network Design
+# ICT291
+# Network Design and Implementation
 
-**Teaching Period:** Semester 2, 2025
+**Teaching Period:** Semester 1, 2026
 
-**Unit Coordinator:** Terry Koziniec
+**Unit Coordinators:** 
+Dr Joseph Stevens<br>
+Mr Terry Koziniec
 
 <p align="right">
   <img src="img/50thLogo_Print_Primary_Seal_Gold.jpg" alt="Murdoch University 50th Gold Seal Logo" width="80"/>
@@ -20,15 +22,23 @@
 
 ## 1 Unit Details
 Welcome to:
-Unit Code: ICT535
-Unit Name: Scalable Network Design
+Unit Code: ICT291
+Unit Name: Network Design and Implementation
 
-### 1.1 Unit Overview 
-ICT535 is an intermediate data communications unit that builds on the study of LAN architecture introduced in ICT546. It aims to develop students' existing skills in building functional networks and applying design methodologies that enable small networks to scale into larger regional, national, or global networks that are manageable, reliable, and secure.
+### 1.1 Unit Description 
+This unit aims to extend a student's introductory data-communications knowledge to include technologies associated with enterprise networks such as redundancy, dynamic routing and access-control-list based security. There is a particular focus on LAN design and Ethernet switching concepts. These are explored at an advanced level.
 
-A consistent theme throughout the unit is scalability. Students will use templates and design methodologies to create large-scale networks that minimise complexity and promote structure. As network size and complexity increase, so does the risk of failure. The unit explores technologies that support the redundancy and resiliency required by large enterprises that depend on robust and reliable access to information and online services.
+A consistent theme throughout the unit is "scalability". From design methodology to specific technologies, the unit leverages a student's ability to design a small functional network to enable the development of an enterprise network that is manageable, reliable and secure.
 
-Additionally, the unit delves deeper into Ethernet switching in local area networks and introduces access control lists (ACLs) as a foundational element of network security.
+**Prerequisites**
+ICT169 Foundations of Data Communication.<br>
+If you have an exemption from ICT169 based on prior studies (EG TAFE) it is essential that you:
+•	Are familiar with the OSI model for data communications.
+•	Are familiar with the operation of the Internet Protocol (IP) and Ethernet technologies.
+•	Understand the role of IP addresses, subnet masks and default gateways.
+•	Can perform basic IP version 4 subnetting.
+The greatest challenge for students taking ICT291 without adequate prerequisites will be to catch up on the IP subnetting. If you feel that your prior studies did not adequately cover the requirements, it is strongly recommended that you discuss the matter with the unit coordinator or your Academic Chair. Ideally, you will take the unit ICT169 Introduction to Data Communications before enrolling in ICT291.<br>
+It is also preferable that you have used the Cisco IOS to configure network devices before taking ICT291.  If you haven't, please let the Unit Coordinator know in the first week.  The Unit Coordinator will point you towards some introductory materials and exercises to bring you up to speed.
 
 ### 1.2 Learning Outcomes
 This unit enables you to demonstrate your achievement of the following unit learning outcomes.
