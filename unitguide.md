@@ -21,8 +21,8 @@ Mr Terry Koziniec
 ---
 
 ## 1 Unit Details
-Welcome to:
-Unit Code: ICT291
+Welcome to:<br>
+Unit Code: ICT291<br>
 Unit Name: Network Design and Implementation
 
 ### 1.1 Unit Description 
