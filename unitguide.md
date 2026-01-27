@@ -9,7 +9,7 @@
 
 **Teaching Period:** Semester 1, 2026
 
-**Unit Coordinators:** 
+**Unit Coordinators:**<br>
 Dr Joseph Stevens<br>
 Mr Terry Koziniec
 
@@ -123,7 +123,7 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 ---
 
 ## 2 Contact details
-### 2.1 Unit coordinator
+### 2.1 Unit coordinators
 
 | <img src="img/uc1-photo.png" alt="Terry Koziniec photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |   |
 |---------------|-----------------------------------------| 
@@ -180,14 +180,14 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 ## 3 How to study this unit
 ### 3.1 Approach to learning
 #### 3.1.1 Learning approach underpinning unit
-Content delivery in ICT535 is via a 2-hour lecture and readings associated with the Cisco online curriculum. Weekly 2-hour labs focus on applying the theory and using EVE-NG network emulation software. The unit uses a scaffolded learning approach with labs focussing on isolated exploration of the weekly topics and a real-world case study that integrates the topics into an overall design that builds during the semester.
+Content delivery in ICT291 is via a 2-hour lecture and readings associated with the Cisco online curriculum. Weekly 2-hour labs focus on applying the theory and using EVE-NG network emulation software. The unit uses a scaffolded learning approach with labs focussing on isolated exploration of the weekly topics and a real-world case study that integrates the topics into an overall design that builds during the semester.
 
 #### 3.1.2 Unit changes in response to student feedback
 Previous students have provided us with feedback to improve this unit. Please help us continue this feedback cycle by completing your own unit survey which will open toward the end of teaching. You can find your Myfeedback surveys at http://myfeedback.murdoch.edu.au/. 
 
 ### 3.2 Learning activities & requirements
 #### 3.2.1 Overall expectations
-ICT535 has a prerequisite of ICT546 and assumes the learning objectives of that unit have been achieved. If your performance in ICT546 was marginal, then you will find ICT535 a challenging unit. You must work on the areas you struggled with in ICT546 and build on a solid foundation. The rigorous assessments aim to test your understanding rather than merely your memory.
+ICT291 has a prerequisite of ICT169 and assumes the learning objectives of that unit have been achieved. If your performance in ICT169 was marginal, then you will find ICT291 a challenging unit. You must work on the areas you struggled with in ICT169 and build on a solid foundation. The rigorous assessments aim to test your understanding rather than merely your memory.
 
 #### 3.2.2 Learning activities and details
 **Lecture:** 2 hours each teaching week, these will be recorded and availble via Echo 360.
@@ -196,7 +196,7 @@ ICT535 has a prerequisite of ICT546 and assumes the learning objectives of that 
 
 **Case Study:** This is an active learning exercise designed to build your skills through practical engagement. It is not intended to be difficult or obscure. In many cases, the detailed instructions include testing or verification steps to guide your progress.
 
-If you encounter difficulties, revisit the relevant lab activities to reinforce your understanding of the techniques or technologies involved. Then return to the case study with improved knowledge and confidence. You are expected to complete all parts of the activity and persist through challenges — troubleshooting is a core learning objective in ICT535 and a valuable professional skill.
+If you encounter difficulties, revisit the relevant lab activities to reinforce your understanding of the techniques or technologies involved. Then return to the case study with improved knowledge and confidence. You are expected to complete all parts of the activity and persist through challenges — troubleshooting is a core learning objective in ICT291 and a valuable professional skill.
 
 The case study is structured around five cumulative milestones, with each stage building on the successful completion of previous exer                cises. It is essential to complete the tasks in order and correct any errors before progressing.
 
