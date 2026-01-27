@@ -211,20 +211,20 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 
 | Week | Date commencing | Readings    | Topic                                      | Assessment due date       |
 |:----:|:------------:|-------------|--------------------------------------------|---------------------------|
-| 1    | 28-Jul-2025  | SRWE 2 & 14 | Introduction & Layer 2/3 revision          |                           |
-| 2    | 04-Aug-2025  | ENSA 11     | Scalable Network Design                    | Case study 1, IOS Basics/EVE<br>(Formative - self assessment)|
-| 3    | 11-Aug-2025  | SRWE 5       | LAN Redundancy and STP  802.1d  |                           |
-| 4    | 18-Aug-2025  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  |
-| 5    | 25-Aug-2025  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols|Case study 2 STP |
-| 6    | 01-Sep-2025  |               | **[  Independent Study Week  ]**  |Friday, 5th September 2025, 2:30PM|
-| 7    | 08-Sep-2025  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF |Case study 3 VLAN routing|
-| 8    | 15-Sep-2025  |               | OSPF multi-area and Summarisation |                           |
-| 9    | 22-Sep-2025  | ENSA 4 & 5    |Access Control Lists (ACL)         | Case study 4 OSPF/end-to-end |
-| 10   | 29-Sep-2025  |               | **[  Independent Study Week  ]**  |                           |
-| 11   | 06-Oct-2025  | ENSA 6        |ACL continued Implementing NAT          |                           |
-| 12   | 13-Oct-2025  | SRWE 9        | First hop redundancy HSRP / VRRP |Case study submission 5 ACL / Internet|
-| 13   | 20-Oct-2025  |              | No Classes this week Study for your practical                              |** TBA PRAC **|
-| 14   | 27-Oct-2025  |            | Review                              |                           |
+| 1    | 23-Feb-2026  | SRWE 2 & 14 | Introduction & Layer 2/3 revision          |                           |
+| 2    | 02-Mar-2026  | ENSA 11     | Scalable Network Design                    | Case study 1, IOS Basics/EVE<br>(Formative - self assessment)|
+| 3    | 09-Mar-2026  | SRWE 5       | LAN Redundancy and STP  802.1d  |                           |
+| 4    | 16-Mar-2026  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  |
+| 5    | 23-Mar-2026  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols|Case study 2 STP |
+| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF |Case study 3 VLAN routing| 
+| 7    | 06-Apr-2026  |               | **[  Independent Study Week  ]**  |Friday, 5th September 2026, 2:30PM|
+| 8    | 13-Apr-2026  |               | OSPF multi-area and Summarisation |                           |
+| 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         | Case study 4 OSPF/end-to-end |
+| 10   | 27-Apr-2026  |               | **[  Independent Study Week  ]**  |                           |
+| 11   | 04-May-2026  | ENSA 6        |ACL continued Implementing NAT          |                           |
+| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP |Case study submission 5 ACL / Internet|
+| 13   | 18-May-2026  |              | No Classes this week Study for your practical                              |** TBA PRAC **|
+| 14   | 25-May-2026  |            | Review                              |                           |
 
 ---
 
@@ -235,7 +235,7 @@ Assessment for this unit is conducted in accordance with the [Assessment Procedu
 
 | # | Assessment Name | Unit Learning Outcomes | Weight % |Individual or Group | Due Date and Time    |
 |:-:|-----------------|:----------------------:|:--------:|--------------------|:--------------------:|
-| 1 |Midsemester Exam | 1,2,3,4                | 30       |Individual          |Friday, 5th September 2025, 2:30PM    |
+| 1 |Midsemester Exam | 1,2,3,4                | 30       |Individual          |Friday, 5th September 2026, 2:30PM    |
 | 2 |Practical Exam   | 1,3,4,5                | 30       |Individual          |**TBA**                   |
 | 3 |Final Exam       | 1,2,3,4                | 40       |Individual          |University Exam Period|
 
@@ -247,7 +247,7 @@ Assessment for this unit is conducted in accordance with the [Assessment Procedu
 - 90 minute duration.
 - 30% of the unit grade.
 - Held during the first Independent Study Week
-    - Friday, 5th September 2025
+    - Friday, 5th September 2026
     - 2:30 PM - 4:00 PM
 - Closed book, invigilated exam.
 
