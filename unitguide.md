@@ -125,6 +125,26 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 ## 2 Contact details
 ### 2.1 Unit coordinators
 
+Role:
+Unit Coordinator
+Discipline:
+Information Technology
+Campus:
+South Street, 
+Email:
+joseph.stevens@murdoch.edu.au
+Phone:
+618 9360 2798
+| <img src="img/uc2-photo.jpg" alt="Joe Stevens photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |   |
+|---------------|-----------------------------------------| 
+| **Name:**     | Joe Stevens                          |
+| **Preferred:**| Joe                                   |
+| **Pronouns:** | He/Him                                  |
+| **School:**   | School of Information Technology        |
+| **Campus:**   | South Street, Murdoch, Australia        |
+| **Office:**   | Building 245, Room 1.014                |
+| **Email:**    | joseph.stevens@murdoch.edu.au               |
+
 | <img src="img/uc1-photo.png" alt="Terry Koziniec photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |   |
 |---------------|-----------------------------------------| 
 | **Name:**     | Terry Koziniec                          |
@@ -132,6 +152,7 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 | **Pronouns:** | He/Him                                  |
 | **School:**   | School of Information Technology        |
 | **Campus:**   | South Street, Murdoch, Australia        |
+| **Office:**   | Building 245, Room 1.022                |
 | **Email:**    | t.koziniec@murdoch.edu.au               |
 
 ### 2.2 Teaching team
