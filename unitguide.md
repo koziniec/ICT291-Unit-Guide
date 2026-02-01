@@ -188,45 +188,7 @@ Phone:
 
 ### 2.2 Teaching team
 
-|                     |                                          |
-|---------------------|------------------------------------------|
-| **Name:**           | James McCutcheon                         |
-| **Preferred:**      | James                                    |
-| **School:**         | School of Information Technology         |
-| **Campus:**         | South Street, Murdoch, Australia         |
-| **Email:**          | James.McCutcheon@murdoch.edu.au          |
-| **Lab Session:**    | Thursday 8:30AM, Building 360 Room 3.010 |
-
-|                     |                                          |
-|---------------------|------------------------------------------|
-| **Name:**           | Wai Leong Ow                             |
-| **Preferred:**      | Wai                                      |
-| **Pronouns:**       | He/Him                                   |
-| **School:**         | School of Information Technology         |
-| **Campus:**         | South Street, Murdoch, Australia         |
-| **Email:**          | WaiLeong.Ow@murdoch.edu.au               |
-| **Lab Session:**    | Thursday 8:30AM, Building 360 Room 3.010 |
-
-|                     |                                          |
-|---------------------|------------------------------------------|
-| **Name:**           | Terry Koziniec                           |
-| **Preferred:**      | Terry                                    |
-| **Pronouns:**       | He/Him                                   |
-| **School:**         | School of Information Technology         |
-| **Campus:**         | South Street, Murdoch, Australia         |
-| **Email:**          | t.koziniec@murdoch.edu.au                |
-| **Lecture Session:**| Tuesday 10:30AM, Building 460 Room ECL1  |
-| **Lab Sessions:**   | Friday 8:30AM, Building 360 Room 3.010<br>Friday 10:30AM, Building 360 Room 3.010 |
-
-|                     |                                          |
-|---------------------|------------------------------------------|
-| **Name:**           | Awais.Amin@murdoch.edu.au                |
-| **Preferred:**      | Awais                                    |
-| **School:**         | School of Information Technology         |
-| **Campus:**         | South Street, Murdoch, Australia         |
-| **Email:**          | Awais.Amin@murdoch.edu.au                |
-| **Lab Session:**    | Friday 10:30AM, Building 360 Room 3.010  |
-
+Your Unit Coordinators will deliver the lectures, on an alternating basis, and will jointly instruct during the lab sessions.
 ---
 
 ## 3 How to study this unit
@@ -239,7 +201,9 @@ Previous students have provided us with feedback to improve this unit. Please he
 
 ### 3.2 Learning activities & requirements
 #### 3.2.1 Overall expectations
-ICT291 has a prerequisite of ICT169 and assumes the learning objectives of that unit have been achieved. If your performance in ICT169 was marginal, then you will find ICT291 a challenging unit. You must work on the areas you struggled with in ICT169 and build on a solid foundation. The rigorous assessments aim to test your understanding rather than merely your memory.
+ICT291 has a prerequisite of ICT169 and assumes the learning objectives of that unit have been achieved. If your performance in ICT169 was marginal, then you will find ICT291 a challenging unit. You must work on the areas you struggled with in ICT169 and build on a solid foundation.  
+
+ICT291 is a prerequisite for the advanced units ICT372 and ICT377. The learning objectives in ICT291 are crucial for your ultimate success in the advanced units. The assessments are rigorous and aim to test your understanding rather than merely your memory…
 
 #### 3.2.2 Learning activities and details
 **Lecture:** 2 hours each teaching week, these will be recorded and availble via Echo 360.
@@ -250,9 +214,9 @@ ICT291 has a prerequisite of ICT169 and assumes the learning objectives of that 
 
 If you encounter difficulties, revisit the relevant lab activities to reinforce your understanding of the techniques or technologies involved. Then return to the case study with improved knowledge and confidence. You are expected to complete all parts of the activity and persist through challenges — troubleshooting is a core learning objective in ICT291 and a valuable professional skill.
 
-The case study is structured around five cumulative milestones, with each stage building on the successful completion of previous exer                cises. It is essential to complete the tasks in order and correct any errors before progressing.
+The case study is structured around five cumulative milestones, with each stage building on the successful completion of previous exercises. It is essential to complete the tasks in order and correct any errors before progressing.
 
-This task is not formally assessed, but it is **crucial for your learning and practical exam preparation**. 
+This task is not formally assessed, but there are a series of four VR (Virtual Reality) vivas, that simulate face-to-face conversations that are representative of work in network design and management role. Thisk of the case study as your day job in a networking environment.  If you don't engage at work, you can't expect to be able to interact with management, colleagues and clients in a meaningful way, and this affect your result.  Being familiar with the case study and siulated environment is also crucial for your learning and practical exam preparation.  In the case of the practical exam, the network and context will be your case study network.  IE the network you will manage and troubleshoot during the exam is the same network you built in the case study.
 
 ---
 
@@ -264,11 +228,11 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 | Week | Date commencing | Readings    | Topic                                      | Assessment due date       |
 |:----:|:------------:|-------------|--------------------------------------------|---------------------------|
 | 1    | 23-Feb-2026  | SRWE 2 & 14 | Introduction & Layer 2/3 revision          |                           |
-| 2    | 02-Mar-2026  | ENSA 11     | Scalable Network Design                    | Case study 1, IOS Basics/EVE<br>(Formative - self assessment)|
+| 2    | 02-Mar-2026  | ENSA 11     | Scalable Network Design                    | Viva 1 - Job interview<br>(Formative - Feedback but no marks)|
 | 3    | 09-Mar-2026  | SRWE 5       | LAN Redundancy and STP  802.1d  |                           |
-| 4    | 16-Mar-2026  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  |
-| 5    | 23-Mar-2026  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols|Case study 2 STP |
-| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF |Case study 3 VLAN routing| 
+| 4    | 16-Mar-2026  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  | Viva 2 - Tech conversation with supervisor<br>(Held in lab)|
+| 5    | 23-Mar-2026  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols| |
+| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF | | 
 | 7    | 06-Apr-2026  |               | **[  Independent Study Week  ]**  |Friday, 5th September 2026, 2:30PM|
 | 8    | 13-Apr-2026  |               | OSPF multi-area and Summarisation |                           |
 | 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         | Case study 4 OSPF/end-to-end |
