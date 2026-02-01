@@ -84,13 +84,13 @@ This unit enables you to demonstrate your achievement of the following unit lear
 
 
 
-| Unit LO (Learning Outcomes)                                                    | Course LO |
+| Unit LO (Learning Outcomes)                                                    | Major LO |
 |:-------------------------------------------------------------------------------|:---------:|
-| 1. Create a network design that is functional, stable and scalable.           | 1    |
+| 1. Create a network design that is functional, stable and scalable.           | 3    |
 | 2. Apply established industry design methodologies and best practices to design and implement a highly available network that delivers the needs of the stakeholders.  | 1    |
 | 3. Manage network traffic according to organisational policy using ACLs (Access Control Lists) and demonstrate an understanding of sound security practices. | 1    |
-| 4. Detect, troubleshoot and correct common enterprise network implementation issues using common tools and established troubleshooting methodologies. | 1    |
-| 5. Design, configure and manage simulated enterprise networks using using EVE network emulation software.| 2    |
+| 4. Detect, troubleshoot and correct common enterprise network implementation issues using common tools and established troubleshooting methodologies. | 2    |
+| 5. Design, configure and manage simulated enterprise networks using using EVE network emulation software.| 1,3    |
 
 ### 1.3 Graduate attributes 
 This unit will contribute to the development of the following [Graduate Attributes](https://www.murdoch.edu.au/mymurdoch/support-advice/learning-study/graduate-attributes):
