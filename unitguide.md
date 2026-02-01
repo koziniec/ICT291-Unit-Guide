@@ -62,7 +62,6 @@ This unit makes use of two modules of the Cisco Systems Network Academy curricul
 For students wishing to sit the CCNA exam after taking this unit, and I do encourage you to do so, here are some points to take into account in your preparation.  
 
 The unit coordinator will place little emphasis on the Cisco proprietary elements of the curriculum.  Fortunately the communications industry is based on standards and the vast majority of the Cisco content applies to the industry as whole and to other vendor's equipment. Content that relates to the following areas is likely to be covered in little depth and you should revisit these sections prior to sitting for your CCNA exam:  
-
     • Cisco product hardware and features.  
     • Marketing concepts and terminology. Often this includes methodologies and models that emphasise integration and a single vendor environment.  
     • Navigation of the GUI configuration environments.  
