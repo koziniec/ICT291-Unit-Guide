@@ -110,7 +110,7 @@ In terms of levels, SFIA identifies seven levels of responsibility. SFIA specifi
 This unit contributes to the following SFIA Skills:
 - Development and Implementation > Systems Development > **Network Design** (Level 6)
 - Delivery and operation > Technology Management > **Network Support** (Level 5)
-- 
+
 Although we will cover the theory and provide examples, we will not cover every possible scenario. You will need to use you understanding of various technologies and protocols to create solutions to problems that occur in environments (contexts) that you are not familiar with.  Rote learning facts is not effective in developing understanding and you should not expect that the assessment items will contain many questions that you have already seen.
 This unit will assist in preparing students for a number of common ICT roles, including:
 * Computer Network Systems Engineer
@@ -118,6 +118,7 @@ This unit will assist in preparing students for a number of common ICT roles, in
 * Network Administrator
 * ICT Support Engineer
 * ICT Consultant
+  
 See: https://www.acs.org.au/insightsandpublications/reports-publications/demand-impacts-tech-digital-skills-supplement.html 
     
 ### 1.5 Strategic themes
