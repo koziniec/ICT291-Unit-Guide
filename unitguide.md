@@ -80,11 +80,11 @@ This unit enables you to demonstrate your achievement of the following unit lear
 | 1. Demonstrate a broad and coherent knowledge and understanding of the underlying principles and core concepts of Internetworking and Network Security, including:
 a) Appreciation of the interplay between theory and practice
 b) Awareness of the broad applicability of computing
-c) Appreciation of domain-specific knowledge, including:
-    * data communications theory and practice
-    * Network design and troubleshooting
-    * Network security
-    * Wireless network technologies           | 1    |
+c) Appreciation of domain-specific knowledge, including:  
+    * data communications theory and practice  
+    * Network design and troubleshooting  
+    * Network security  
+    * Wireless network technologies             | 1    |
 | 2. Demonstrate mastery of the core networking technologies and topologies to create secure and efficient solutions for organisational data communications.  | 1    |
 | 3. Develop proficiency in the design and administration of a number of data communications networks and environments. | 1    |
 | 4. Demonstrated capacity to specify, design, implement, secure and manage complex organisational data communications networks. | 1    |
