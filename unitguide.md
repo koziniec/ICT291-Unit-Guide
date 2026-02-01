@@ -39,6 +39,7 @@ If you have an exemption from ICT169 based on prior studies (EG TAFE) it is esse
 •	Are familiar with the operation of the Internet Protocol (IP) and Ethernet technologies.<br>
 •	Understand the role of IP addresses, subnet masks and default gateways.<br>
 •	Can perform basic IP version 4 subnetting.  
+
 The greatest challenge for students taking ICT291 without adequate prerequisites will be to catch up on the IP subnetting. If you feel that your prior studies did not adequately cover the requirements, it is strongly recommended that you discuss the matter with the unit coordinator or your Academic Chair. Ideally, you will take the unit ICT169 Introduction to Data Communications before enrolling in ICT291.  
 It is also preferable that you have used the Cisco IOS to configure network devices before taking ICT291.  If you haven't, please let the Unit Coordinator know in the first week.  The Unit Coordinator will point you towards some introductory materials and exercises to bring you up to speed.
 
