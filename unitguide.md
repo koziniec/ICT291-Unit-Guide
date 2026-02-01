@@ -34,7 +34,7 @@ A consistent theme throughout the unit is "scalability". From design methodology
 
 ICT169 Foundations of Data Communication.
 
-If you have an exemption from ICT169 based on prior studies (EG TAFE) it is essential that you:
+If you have an exemption from ICT169 based on prior studies (EG TAFE) it is essential that you:<br>
 •	Are familiar with the OSI model for data communications.
 •	Are familiar with the operation of the Internet Protocol (IP) and Ethernet technologies.
 •	Understand the role of IP addresses, subnet masks and default gateways.
