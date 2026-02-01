@@ -31,7 +31,9 @@ This unit aims to extend a student's introductory data-communications knowledge 
 A consistent theme throughout the unit is "scalability". From design methodology to specific technologies, the unit leverages a student's ability to design a small functional network to enable the development of an enterprise network that is manageable, reliable and secure.
 
 **Prerequisites**
-ICT169 Foundations of Data Communication.<br>
+
+ICT169 Foundations of Data Communication.
+
 If you have an exemption from ICT169 based on prior studies (EG TAFE) it is essential that you:
 •	Are familiar with the OSI model for data communications.
 •	Are familiar with the operation of the Internet Protocol (IP) and Ethernet technologies.
