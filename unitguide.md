@@ -251,50 +251,42 @@ Assessment for this unit is conducted in accordance with the [Assessment Procedu
 
 | # | Assessment Name | Unit Learning Outcomes | Weight % |Individual or Group | Due Date and Time    |
 |:-:|-----------------|:----------------------:|:--------:|--------------------|:--------------------:|
-| 1 |Midsemester Exam | 1,2,3,4                | 30       |Individual          |Friday, 5th September 2026, 2:30PM    |
+| 1 |Case Study vivas | 1,2,3,4                | 20       |Individual          |During lab sessions as indicated in the schedule|
 | 2 |Practical Exam   | 1,3,4,5                | 30       |Individual          |**TBA**                   |
-| 3 |Final Exam       | 1,2,3,4                | 40       |Individual          |University Exam Period|
+| 3 |Final Exam       | 1,2,3,4                | 50       |Individual          |University Exam Period|
 
 
 ### 5.2 Assessment information
-#### 5.2.1 Assessment 1 - Midsemster Exam
+#### 5.2.1 Assessment 1 - Case Study vivas
 **ASSESSMENT DESCRIPTION**
 
-- 90 minute duration.
-- 30% of the unit grade.
-- Held during the first Independent Study Week
-    - Friday, 5th September 2026
-    - 2:30 PM - 4:00 PM
-- Closed book, invigilated exam.
+- 20% of the unit grade.
+- four x 10-15 minute minute duration.
+- Held during the lab sessions as indicated in the schedule
+- Closed book, no notes unless told otherwise.
 
-The exam will be cover the topics covered in the first five weeks of the unit. This includes: general principles of scalable design; layer 2 concepts, including STP (Spanning Tree Protocol) and general principles of routing.
-
-**HOW TO SUBMIT**
-
-The exam will be held undersupervised conditions in a computer lab. The exam will be conducted using LMS and may feature multiple choice, short answer, calculation and longer answer questions. 
+The vivas involve a brief VR "conversation" with individuals (AI based) involved in the case study's Hotel California group.  The conversations will take place in a range of different contexts and with different stakeholders. Some will be informal conversations with colleagues, while others will be more formal.  For example a job interview and fielding questions from the audience in support of your boss during a presentation to the Hotel California board.
 
 **HOW IT IS ASSESSED** (summary)
 
-You will be assessed on these key criteria:
-- Where possible questions are autograde using the LMS quiz tool.
-- Where questions are entered as short typed text (for example an IP address), answers graded by LMS as incorrect are manually checked for typos.  Errors that are not related to the validity of the answer, such as white space or uneccessary text that doesn't undermine the answer, may be manually graded.
-- Written paragraph answers are graded manually using a marking guide. If there are multiple graders, every effort will be made to have the same person grade all of the instances of a given question to ensure consistency of marking for all students.
+In the course of these conversations, you will be prompted to discuss and explain aspects of the Hotel California network and broader technology questions relating to recent topics. You will recieve a mark based on the accuracy quality of your responses as well as receiving formative feedback on your communication skills.
+
+There are 5 such conversations, but the first session "Job Interview" is not formally assessed.  It is designed to familiarise you with the techonolgy and assessment process.
 
 **FEEDBACK FOR LEARNING**
 
-- Your results will be visible with in LMS.
-- Student's have the right to view their exam to see where they have gone wrong. Arrangements for providing this feedback will be communicated during the semester. Pleae approach the teaching staff if you have not had this opportunity.
+- Your results will be visible within LMS.
+- The VR/AI system will provide an analysis of your answers.
+- The unit coordinators will mark your recorded viva, supported by data provided by the AI system.
 
 **GUIDELINES for SUCCESS**
 
 - Fully engage with the weekly labs and struggle through any problems until they are resolved.
 - Complete the case studies aiming for 100% completion.  This means you are actively trying to resolve issues and understanding every week.
 
-A common issue for students answering written question is failing to answer the question that is asked.  It does not matter whether you answer is a correct statement if it does not answer the question being asked.  Read the questions carefully.
-
 **FURTHER DETAILS**
 
-See myMurdoch Learning for further details, such as instructions, communication and a sample exam.
+See myMurdoch Learning for further details
 
 #### 5.2.2 Assessment 2 - Practical exam
 **ASSESSMENT DESCRIPTION**
@@ -342,7 +334,7 @@ See myMurdoch Learning for further details, such as instructions, communication 
 **ASSESSMENT DESCRIPTION**
 
 - 90 minutes duration.
-- 40% of the unit grade.
+- 50% of the unit grade.
 - Held during the University examinations period. 
 - Free navigation, you can return to already answered questions
 - Closed book, invigilated exam.
@@ -421,7 +413,6 @@ and/or
     - [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings)
     - Teams
     - Echo360
-    - PebblePad
 
 The specific types of learning resources that we use include:
 
@@ -432,7 +423,7 @@ These are the learning resources that you should use:
 |---------------------------|-------------------------------------------|----------------------------|
 | Unit resources            | Various               | [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings) |
 | Cisco netacad             |                                           |                            |
-| EVE-NG Simulator          |                                           |                            |
+| EVE-NG Simulator          | Cloud based network emulator              | Accounts are allocated by week 2 |
 |                           |                                           |                            |
 
 Other resources and further recommended resources are in our myMurdoch Learning.
