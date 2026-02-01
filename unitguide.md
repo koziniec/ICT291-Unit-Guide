@@ -238,7 +238,7 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 | 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         | Viva 4 - Stakeholder presentation|
 | 10   | 27-Apr-2026  |               | **[  Independent Study Week  ]**  |                           |
 | 11   | 04-May-2026  | ENSA 6        |ACL continued Implementing NAT          ||
-| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP | | Viva 5 - Network operations centre|
+| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP | Viva 5 - Network operations centre|
 | 13   | 18-May-2026  |              | No classes this week Study for your practical |** TBA PRAC **|
 | 14   | 25-May-2026  |            | Review                              |                           |
 
