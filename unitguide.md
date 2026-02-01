@@ -40,6 +40,12 @@ If you have an exemption from ICT169 based on prior studies (EG TAFE) it is esse
 The greatest challenge for students taking ICT291 without adequate prerequisites will be to catch up on the IP subnetting. If you feel that your prior studies did not adequately cover the requirements, it is strongly recommended that you discuss the matter with the unit coordinator or your Academic Chair. Ideally, you will take the unit ICT169 Introduction to Data Communications before enrolling in ICT291.<br>
 It is also preferable that you have used the Cisco IOS to configure network devices before taking ICT291.  If you haven't, please let the Unit Coordinator know in the first week.  The Unit Coordinator will point you towards some introductory materials and exercises to bring you up to speed.
 
+**Aims of the unit**
+For students enrolled in the Internetworking and Network Security major, ICT291 serves as an intermediate data-communications unit. The goal is to give students sufficient background knowledge and applied skills so that they are prepared to take the advanced third-year units: “Advanced Network Design”, “Network Security”, and “Wireless and Interactive Networks”.<br>
+After completing this unit, students should understand the components and technologies that make up a large-scale network. Students will develop a more advanced understanding of specific routing and switching technologies: Wireless-LANs and network security in later units.<br>
+Introductory networking units tend to focus on generic theory and the configuration of hosts. However, as an intermediate unit, ICT291 is more focused on network infrastructure (routers and switches) and the development of applied skills. The unit emphasises emphasis is Cisco IOS as this will be required in later units. Cisco IOS-like environments are also the most likely to be encountered when working with enterprise or carrier-class routing and switching. <br>
+ICT291 extends ICT169's coverage of the LAN to include more advanced topics and techniques. Upon completing this unit, students can design and implement LANs optimised in terms of performance and reliability rather than merely providing connectivity.
+
 ### 1.2 Learning Outcomes
 This unit enables you to demonstrate your achievement of the following unit learning outcomes.
 
