@@ -34,10 +34,11 @@ A consistent theme throughout the unit is "scalability". From design methodology
 
 ICT169 Foundations of Data Communication.
 
-If you have an exemption from ICT169 based on prior studies (EG TAFE) it is essential that you:<br>
-•	Are familiar with the OSI model for data communications.<br>
-•	Are familiar with the operation of the Internet Protocol (IP) and Ethernet technologies.<br>
-•	Understand the role of IP addresses, subnet masks and default gateways.<br>
+If you have an exemption from ICT169 based on prior studies (EG TAFE) it is essential that you:  
+
+•	Are familiar with the OSI model for data communications.  
+•	Are familiar with the operation of the Internet Protocol (IP) and Ethernet technologies.  
+•	Understand the role of IP addresses, subnet masks and default gateways.  
 •	Can perform basic IP version 4 subnetting.  
 
 The greatest challenge for students taking ICT291 without adequate prerequisites will be to catch up on the IP subnetting. If you feel that your prior studies did not adequately cover the requirements, it is strongly recommended that you discuss the matter with the unit coordinator or your Academic Chair. Ideally, you will take the unit ICT169 Introduction to Data Communications before enrolling in ICT291.  
