@@ -53,6 +53,22 @@ Introductory networking units tend to focus on generic theory and the configurat
 
 ICT291 extends ICT169's coverage of the LAN to include more advanced topics and techniques. Upon completing this unit, students can design and implement LANs optimised in terms of performance and reliability rather than merely providing connectivity.  
 
+**Cisco Certified Network Associate (CCNA) Exam preparation**  
+This section contains information relating to the externally administered CCNA exam.  None of this information relates to the requirements of this unit but it does explain which parts of the Cisco Curriculum are considered less important by the unit coordinator, as the requirements and emphasis of a University course on data communications and a vendor based certification exam are not always in perfect alignment.  
+
+This unit makes use of two modules of the Cisco Systems Network Academy curriculum which in itself aims to provide a broad coverage of IP based data communications, prepare students to sit the CCNA exam and provide background information on the networking industry and work life and roles within the industry.  This unit emphasises and assesses the IP networking theory and application and tends to ignore the extraneous topics.  
+
+For students wishing to sit the CCNA exam after taking this unit, and I do encourage you to do so, here are some points to take into account in your preparation.
+The unit coordinator will place little emphasis on the Cisco proprietary elements of the curriculum.  Fortunately the communications industry is based on standards and the vast majority of the Cisco content applies to the industry as whole and to other vendor's equipment. Content that relates to the following areas is likely to be covered in little depth and you should revisit these sections prior to sitting for your CCNA exam:  
+    • Cisco product hardware and features.  
+    • Marketing concepts and terminology. Often this includes methodologies and models that emphasise integration and a single vendor environment.  
+    • Navigation of the GUI configuration environments.  
+    
+For the most part these are items that candidates memorise prior to a certification exam rather than something that is learned.  There are a number of Cisco authored labs available that emphasise the use of the GUI interface.  These are not used in this unit but for those planning to take the CCNA exam, you are encouraged to complete at least some of these as part of your Certification examination preparation.  
+
+https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html 
+
+
 ### 1.2 Learning Outcomes
 This unit enables you to demonstrate your achievement of the following unit learning outcomes.
 
