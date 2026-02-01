@@ -77,7 +77,7 @@ This unit enables you to demonstrate your achievement of the following unit lear
 
 | Major Learning Outcomes (Internetworking and Network Security)                                                    | Course LO |
 |:-------------------------------------------------------------------------------|:---------:|
-| 1. Demonstrate a broad and coherent knowledge and understanding of the underlying principles and core concepts of Internetworking and Network Security, including:
+| 1. Demonstrate a broad and coherent knowledge and understanding of the underlying principles and core concepts of Internetworking and Network Security, including:  
 a) Appreciation of the interplay between theory and practice
 b) Awareness of the broad applicability of computing
 c) Appreciation of domain-specific knowledge, including:  
