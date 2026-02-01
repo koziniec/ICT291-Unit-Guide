@@ -110,24 +110,15 @@ In terms of levels, SFIA identifies seven levels of responsibility. SFIA specifi
 This unit contributes to the following SFIA Skills:
 - Development and Implementation > Systems Development > **Network Design** (Level 6)
 - Delivery and operation > Technology Management > **Network Support** (Level 5)
-
-SFIA specifies Level 5 “Ensure, advise” and Level 6 “Initiate, Influence” for network professionals. 
-For level 6, SFIA defines the expected complexity and knowledge as follows:
-
-**SFIA level 6 - Complexity**
-Performs an extensive range and variety of complex technical and/or professional work activities. ***Undertakes work that requires the application of fundamental principles in a wide and often unpredictable range of contexts***. Understands the relationship between own specialism and wider customer/organisational requirements.
-
-**SFIA level 6 - Knowledge**
-Is fully familiar with recognised industry bodies of knowledge both generic and specific. Actively seeks out new knowledge for own personal development and the mentoring or coaching of others. Develops a wider breadth of knowledge across the industry or business. Applies knowledge to help to define the standards which others will apply.
-
-I want to draw your attention to the ***highlighted text***. Although we will cover the theory and provide examples, we will not cover every possible scenario. You will need to use your understanding of various technologies and protocols to create solutions to problems that occur in environments (contexts) that you are not familiar with. Rote learning facts is ineffective in developing understanding, and you should not expect that the assessment items will contain many questions you have already seen. The unit itself can not deliver SFIA level 6, this is demontrated through a role performing at that level. But the unit supports the development of knowledge and complexity at that level.
-
+- 
+Although we will cover the theory and provide examples, we will not cover every possible scenario. You will need to use you understanding of various technologies and protocols to create solutions to problems that occur in environments (contexts) that you are not familiar with.  Rote learning facts is not effective in developing understanding and you should not expect that the assessment items will contain many questions that you have already seen.
 This unit will assist in preparing students for a number of common ICT roles, including:
-- Computer Network Systems Engineer
-- ICT Security Specialist
-- Network Administrator
-- ICT Support Engineer
-- ICT Consultant
+* Computer Network Systems Engineer
+* ICT Security Specialist
+* Network Administrator
+* ICT Support Engineer
+* ICT Consultant
+See: https://www.acs.org.au/insightsandpublications/reports-publications/demand-impacts-tech-digital-skills-supplement.html 
     
 ### 1.5 Strategic themes
 As an institution, the strategic themes of sustainability, equity, diversity & inclusion, and first nations guide and shape much of our activity.
