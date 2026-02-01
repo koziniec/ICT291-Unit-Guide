@@ -82,8 +82,6 @@ This unit enables you to demonstrate your achievement of the following unit lear
 | 3. Develop proficiency in the design and administration of a number of data communications networks and environments. |
 | 4. Demonstrated capacity to specify, design, implement, secure and manage complex organisational data communications networks. |
 
-
-
 | Unit LO (Learning Outcomes)                                                    | Major LO |
 |:-------------------------------------------------------------------------------|:---------:|
 | 1. Create a network design that is functional, stable and scalable.           | 3    |
@@ -94,8 +92,8 @@ This unit enables you to demonstrate your achievement of the following unit lear
 
 ### 1.3 Graduate attributes 
 This unit will contribute to the development of the following [Graduate Attributes](https://www.murdoch.edu.au/mymurdoch/support-advice/learning-study/graduate-attributes):
-- Critical and creative thinking
-- In-depth knowledge of a field of study
+* Critical and creative thinking
+* In-depth knowledge of a field of study
 
 The Skills Framework for the Information Age (SFIA) Framework enables using a common language to describe the various skills in the information technology realm and the levels at which those skills are exercised. For more details regarding the framework, see http://www.sfia-online.org.
 In terms of levels, SFIA identifies seven levels of responsibility. SFIA specifies Level 5, “Ensure, advise” and Level 6 “, Initiate, Influence”, for network professionals. For level 6, SFIA defines the expected complexity and knowledge as follows:
