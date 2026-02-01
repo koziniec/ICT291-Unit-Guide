@@ -232,14 +232,14 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 | 3    | 09-Mar-2026  | SRWE 5       | LAN Redundancy and STP  802.1d  |                           |
 | 4    | 16-Mar-2026  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  | Viva 2 - Tech conversation with supervisor<br>(Held in lab)|
 | 5    | 23-Mar-2026  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols| |
-| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF | | 
-| 7    | 06-Apr-2026  |               | **[  Independent Study Week  ]**  |Friday, 5th September 2026, 2:30PM|
-| 8    | 13-Apr-2026  |               | OSPF multi-area and Summarisation |                           |
-| 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         | Case study 4 OSPF/end-to-end |
+| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF | Viva 3 - Onboarding a new hire<br>(Held in lab)| 
+| 7    | 06-Apr-2026  |               | **[  Independent Study Week  ]**  ||
+| 8    | 13-Apr-2026  |               | OSPF multi-area and Summarisation ||
+| 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         | Viva 4 - Stakeholder presentation|
 | 10   | 27-Apr-2026  |               | **[  Independent Study Week  ]**  |                           |
-| 11   | 04-May-2026  | ENSA 6        |ACL continued Implementing NAT          |                           |
-| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP |Case study submission 5 ACL / Internet|
-| 13   | 18-May-2026  |              | No Classes this week Study for your practical                              |** TBA PRAC **|
+| 11   | 04-May-2026  | ENSA 6        |ACL continued Implementing NAT          ||
+| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP | | Viva 5 - Network operations centre|
+| 13   | 18-May-2026  |              | No classes this week Study for your practical |** TBA PRAC **|
 | 14   | 25-May-2026  |            | Review                              |                           |
 
 ---
