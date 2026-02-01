@@ -4,12 +4,14 @@
 </p>
 
 ## Unit Outline              
-# ICT535
-# Scalable Network Design
+# ICT291
+# Network Design and Implementation
 
-**Teaching Period:** Semester 2, 2025
+**Teaching Period:** Semester 1, 2026
 
-**Unit Coordinator:** Terry Koziniec
+**Unit Coordinators:**<br>
+Dr Joseph Stevens<br>
+Mr Terry Koziniec
 
 <p align="right">
   <img src="img/50thLogo_Print_Primary_Seal_Gold.jpg" alt="Murdoch University 50th Gold Seal Logo" width="80"/>
@@ -19,32 +21,79 @@
 ---
 
 ## 1 Unit Details
-Welcome to:
-Unit Code: ICT535
-Unit Name: Scalable Network Design
+Welcome to:<br>
+Unit Code: ICT291<br>
+Unit Name: Network Design and Implementation
 
-### 1.1 Unit Overview 
-ICT535 is an intermediate data communications unit that builds on the study of LAN architecture introduced in ICT546. It aims to develop students' existing skills in building functional networks and applying design methodologies that enable small networks to scale into larger regional, national, or global networks that are manageable, reliable, and secure.
+### 1.1 Unit Description 
+This unit aims to extend a student's introductory data-communications knowledge to include technologies associated with enterprise networks such as redundancy, dynamic routing and access-control-list based security. There is a particular focus on LAN design and Ethernet switching concepts. These are explored at an advanced level.
 
-A consistent theme throughout the unit is scalability. Students will use templates and design methodologies to create large-scale networks that minimise complexity and promote structure. As network size and complexity increase, so does the risk of failure. The unit explores technologies that support the redundancy and resiliency required by large enterprises that depend on robust and reliable access to information and online services.
+A consistent theme throughout the unit is "scalability". From design methodology to specific technologies, the unit leverages a student's ability to design a small functional network to enable the development of an enterprise network that is manageable, reliable and secure.
 
-Additionally, the unit delves deeper into Ethernet switching in local area networks and introduces access control lists (ACLs) as a foundational element of network security.
+**Prerequisites**
+
+ICT169 Foundations of Data Communication.
+
+If you have an exemption from ICT169 based on prior studies (EG TAFE) it is essential that you:  
+
+•	Are familiar with the OSI model for data communications.  
+•	Are familiar with the operation of the Internet Protocol (IP) and Ethernet technologies.  
+•	Understand the role of IP addresses, subnet masks and default gateways.  
+•	Can perform basic IP version 4 subnetting.  
+
+The greatest challenge for students taking ICT291 without adequate prerequisites will be to catch up on the IP subnetting. If you feel that your prior studies did not adequately cover the requirements, it is strongly recommended that you discuss the matter with the unit coordinator or your Academic Chair. Ideally, you will take the unit ICT169 Introduction to Data Communications before enrolling in ICT291.  
+
+It is also preferable that you have used the Cisco IOS to configure network devices before taking ICT291.  If you haven't, please let the Unit Coordinator know in the first week.  The Unit Coordinator will point you towards some introductory materials and exercises to bring you up to speed.
+
+**Aims of the unit**  
+For students enrolled in the Internetworking and Network Security major, ICT291 serves as an intermediate data-communications unit. The goal is to give students sufficient background knowledge and applied skills so that they are prepared to take the advanced third-year units: “Advanced Network Design”, “Network Security”, and “Wireless and Interactive Networks”.  
+
+After completing this unit, students should understand the components and technologies that make up a large-scale network. Students will develop a more advanced understanding of specific routing and switching technologies: Wireless-LANs and network security in later units.  
+
+Introductory networking units tend to focus on generic theory and the configuration of hosts. However, as an intermediate unit, ICT291 is more focused on network infrastructure (routers and switches) and the development of applied skills. The unit emphasises emphasis is Cisco IOS as this will be required in later units. Cisco IOS-like environments are also the most likely to be encountered when working with enterprise or carrier-class routing and switching.  
+
+ICT291 extends ICT169's coverage of the LAN to include more advanced topics and techniques. Upon completing this unit, students can design and implement LANs optimised in terms of performance and reliability rather than merely providing connectivity.  
+
+**Cisco Certified Network Associate (CCNA) Exam preparation**  
+This section contains information relating to the externally administered CCNA exam.  None of this information relates to the requirements of this unit but it does explain which parts of the Cisco Curriculum are considered less important by the unit coordinator, as the requirements and emphasis of a University course on data communications and a vendor based certification exam are not always in perfect alignment.  
+
+This unit makes use of two modules of the Cisco Systems Network Academy curriculum which in itself aims to provide a broad coverage of IP based data communications, prepare students to sit the CCNA exam and provide background information on the networking industry and work life and roles within the industry.  This unit emphasises and assesses the IP networking theory and application and tends to ignore the extraneous topics.  
+
+For students wishing to sit the CCNA exam after taking this unit, and I do encourage you to do so, here are some points to take into account in your preparation.  
+
+The unit coordinator will place little emphasis on the Cisco proprietary elements of the curriculum.  Fortunately the communications industry is based on standards and the vast majority of the Cisco content applies to the industry as whole and to other vendor's equipment. Content that relates to the following areas is likely to be covered in little depth and you should revisit these sections prior to sitting for your CCNA exam:  
+
+* Cisco product hardware and features.  
+* Marketing concepts and terminology. Often this includes methodologies and models that emphasise integration and a single vendor environment.  
+* Navigation of the GUI configuration environments.  
+    
+For the most part these are items that candidates memorise prior to a certification exam rather than something that is learned.  There are a number of Cisco authored labs available that emphasise the use of the GUI interface.  These are not used in this unit but for those planning to take the CCNA exam, you are encouraged to complete at least some of these as part of your Certification examination preparation.  
+
+https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html 
+
 
 ### 1.2 Learning Outcomes
 This unit enables you to demonstrate your achievement of the following unit learning outcomes.
 
-| Unit LO (Learning Outcomes)                                                    | Course LO |
+| Major Learning Outcomes (Internetworking and Network Security) |
+|:---------------------------------------------------------------|
+| 1. Demonstrate a broad and coherent knowledge and understanding of the underlying principles and core concepts of Internetworking and Network Security, including:<br>a) Appreciation of the interplay between theory and practice<br>b) Awareness of the broad applicability of computing<br>c) Appreciation of domain-specific knowledge, including:<br>  * data communications theory and practice<br>  * Network design and troubleshooting<br>  * Network security<br>* Wireless network technologies |
+| 2. Demonstrate mastery of the core networking technologies and topologies to create secure and efficient solutions for organisational data communications. |
+| 3. Develop proficiency in the design and administration of a number of data communications networks and environments. |
+| 4. Demonstrated capacity to specify, design, implement, secure and manage complex organisational data communications networks. |
+
+| Unit LO (Learning Outcomes)                                                    | Major LO |
 |:-------------------------------------------------------------------------------|:---------:|
-| 1. Create a network design that is functional, stable and scalable.           | 1    |
+| 1. Create a network design that is functional, stable and scalable.           | 3    |
 | 2. Apply established industry design methodologies and best practices to design and implement a highly available network that delivers the needs of the stakeholders.  | 1    |
 | 3. Manage network traffic according to organisational policy using ACLs (Access Control Lists) and demonstrate an understanding of sound security practices. | 1    |
-| 4. Detect, troubleshoot and correct common enterprise network implementation issues using common tools and established troubleshooting methodologies. | 1    |
-| 5. Design, configure and manage simulated enterprise networks using using EVE network emulation software.| 2    |
+| 4. Detect, troubleshoot and correct common enterprise network implementation issues using common tools and established troubleshooting methodologies. | 2    |
+| 5. Design, configure and manage simulated enterprise networks using using EVE network emulation software.| 1,3    |
 
 ### 1.3 Graduate attributes 
 This unit will contribute to the development of the following [Graduate Attributes](https://www.murdoch.edu.au/mymurdoch/support-advice/learning-study/graduate-attributes):
-- Critical and creative thinking
-- In-depth knowledge of a field of study
+* Critical and creative thinking
+* In-depth knowledge of a field of study
 
 The Skills Framework for the Information Age (SFIA) Framework enables using a common language to describe the various skills in the information technology realm and the levels at which those skills are exercised. For more details regarding the framework, see http://www.sfia-online.org.
 In terms of levels, SFIA identifies seven levels of responsibility. SFIA specifies Level 5, “Ensure, advise” and Level 6 “, Initiate, Influence”, for network professionals. For level 6, SFIA defines the expected complexity and knowledge as follows:
@@ -62,23 +111,15 @@ This unit contributes to the following SFIA Skills:
 - Development and Implementation > Systems Development > **Network Design** (Level 6)
 - Delivery and operation > Technology Management > **Network Support** (Level 5)
 
-SFIA specifies Level 5 “Ensure, advise” and Level 6 “Initiate, Influence” for network professionals. 
-For level 6, SFIA defines the expected complexity and knowledge as follows:
-
-**SFIA level 6 - Complexity**
-Performs an extensive range and variety of complex technical and/or professional work activities. ***Undertakes work that requires the application of fundamental principles in a wide and often unpredictable range of contexts***. Understands the relationship between own specialism and wider customer/organisational requirements.
-
-**SFIA level 6 - Knowledge**
-Is fully familiar with recognised industry bodies of knowledge both generic and specific. Actively seeks out new knowledge for own personal development and the mentoring or coaching of others. Develops a wider breadth of knowledge across the industry or business. Applies knowledge to help to define the standards which others will apply.
-
-I want to draw your attention to the ***highlighted text***. Although we will cover the theory and provide examples, we will not cover every possible scenario. You will need to use your understanding of various technologies and protocols to create solutions to problems that occur in environments (contexts) that you are not familiar with. Rote learning facts is ineffective in developing understanding, and you should not expect that the assessment items will contain many questions you have already seen. The unit itself can not deliver SFIA level 6, this is demontrated through a role performing at that level. But the unit supports the development of knowledge and complexity at that level.
-
+Although we will cover the theory and provide examples, we will not cover every possible scenario. You will need to use you understanding of various technologies and protocols to create solutions to problems that occur in environments (contexts) that you are not familiar with.  Rote learning facts is not effective in developing understanding and you should not expect that the assessment items will contain many questions that you have already seen.
 This unit will assist in preparing students for a number of common ICT roles, including:
-- Computer Network Systems Engineer
-- ICT Security Specialist
-- Network Administrator
-- ICT Support Engineer
-- ICT Consultant
+* Computer Network Systems Engineer
+* ICT Security Specialist
+* Network Administrator
+* ICT Support Engineer
+* ICT Consultant
+  
+See: https://www.acs.org.au/insightsandpublications/reports-publications/demand-impacts-tech-digital-skills-supplement.html 
     
 ### 1.5 Strategic themes
 As an institution, the strategic themes of sustainability, equity, diversity & inclusion, and first nations guide and shape much of our activity.
@@ -113,7 +154,27 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 ---
 
 ## 2 Contact details
-### 2.1 Unit coordinator
+### 2.1 Unit coordinators
+
+Role:
+Unit Coordinator
+Discipline:
+Information Technology
+Campus:
+South Street, 
+Email:
+joseph.stevens@murdoch.edu.au
+Phone:
+618 9360 2798
+| <img src="img/uc2-photo.jpg" alt="Joe Stevens photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |   |
+|---------------|-----------------------------------------| 
+| **Name:**     | Joe Stevens                          |
+| **Preferred:**| Joe                                   |
+| **Pronouns:** | He/Him                                  |
+| **School:**   | School of Information Technology        |
+| **Campus:**   | South Street, Murdoch, Australia        |
+| **Office:**   | Building 245, Room 1.014                |
+| **Email:**    | joseph.stevens@murdoch.edu.au               |
 
 | <img src="img/uc1-photo.png" alt="Terry Koziniec photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |   |
 |---------------|-----------------------------------------| 
@@ -122,53 +183,27 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 | **Pronouns:** | He/Him                                  |
 | **School:**   | School of Information Technology        |
 | **Campus:**   | South Street, Murdoch, Australia        |
+| **Office:**   | Building 245, Room 1.022                |
 | **Email:**    | t.koziniec@murdoch.edu.au               |
 
 ### 2.2 Teaching team
 
-|                     |                                          |
-|---------------------|------------------------------------------|
-| **Name:**           | James McCutcheon                         |
-| **Preferred:**      | James                                    |
-| **School:**         | School of Information Technology         |
-| **Campus:**         | South Street, Murdoch, Australia         |
-| **Email:**          | James.McCutcheon@murdoch.edu.au          |
-| **Lab Session:**    | Thursday 8:30AM, Building 360 Room 3.010 |
-
-|                     |                                          |
-|---------------------|------------------------------------------|
-| **Name:**           | Wai Leong Ow                             |
-| **Preferred:**      | Wai                                      |
-| **Pronouns:**       | He/Him                                   |
-| **School:**         | School of Information Technology         |
-| **Campus:**         | South Street, Murdoch, Australia         |
-| **Email:**          | WaiLeong.Ow@murdoch.edu.au               |
-| **Lab Session:**    | Thursday 8:30AM, Building 360 Room 3.010 |
-
-|                     |                                          |
-|---------------------|------------------------------------------|
-| **Name:**           | Terry Koziniec                           |
-| **Preferred:**      | Terry                                    |
-| **Pronouns:**       | He/Him                                   |
-| **School:**         | School of Information Technology         |
-| **Campus:**         | South Street, Murdoch, Australia         |
-| **Email:**          | t.koziniec@murdoch.edu.au                |
-| **Lecture Session:**| Tuesday 10:30AM, Building 460 Room ECL1  |
-| **Lab Sessions:**   | Friday 8:30AM, Building 360 Room 3.010<br>Friday 10:30AM, Building 360 Room 3.010 |
-
+Your Unit Coordinators will deliver the lectures, on an alternating basis, and will jointly instruct during the lab sessions.
 ---
 
 ## 3 How to study this unit
 ### 3.1 Approach to learning
 #### 3.1.1 Learning approach underpinning unit
-Content delivery in ICT535 is via a 2-hour lecture and readings associated with the Cisco online curriculum. Weekly 2-hour labs focus on applying the theory and using EVE-NG network emulation software. The unit uses a scaffolded learning approach with labs focussing on isolated exploration of the weekly topics and a real-world case study that integrates the topics into an overall design that builds during the semester.
+Content delivery in ICT291 is via a 2-hour lecture and readings associated with the Cisco online curriculum. Weekly 2-hour labs focus on applying the theory and using EVE-NG network emulation software. The unit uses a scaffolded learning approach with labs focussing on isolated exploration of the weekly topics and a real-world case study that integrates the topics into an overall design that builds during the semester.
 
 #### 3.1.2 Unit changes in response to student feedback
 Previous students have provided us with feedback to improve this unit. Please help us continue this feedback cycle by completing your own unit survey which will open toward the end of teaching. You can find your Myfeedback surveys at http://myfeedback.murdoch.edu.au/. 
 
 ### 3.2 Learning activities & requirements
 #### 3.2.1 Overall expectations
-ICT535 has a prerequisite of ICT546 and assumes the learning objectives of that unit have been achieved. If your performance in ICT546 was marginal, then you will find ICT535 a challenging unit. You must work on the areas you struggled with in ICT546 and build on a solid foundation. The rigorous assessments aim to test your understanding rather than merely your memory.
+ICT291 has a prerequisite of ICT169 and assumes the learning objectives of that unit have been achieved. If your performance in ICT169 was marginal, then you will find ICT291 a challenging unit. You must work on the areas you struggled with in ICT169 and build on a solid foundation.  
+
+ICT291 is a prerequisite for the advanced units ICT372 and ICT377. The learning objectives in ICT291 are crucial for your ultimate success in the advanced units. The assessments are rigorous and aim to test your understanding rather than merely your memory…
 
 #### 3.2.2 Learning activities and details
 **Lecture:** 2 hours each teaching week, these will be recorded and availble via Echo 360.
@@ -177,11 +212,11 @@ ICT535 has a prerequisite of ICT546 and assumes the learning objectives of that 
 
 **Case Study:** This is an active learning exercise designed to build your skills through practical engagement. It is not intended to be difficult or obscure. In many cases, the detailed instructions include testing or verification steps to guide your progress.
 
-If you encounter difficulties, revisit the relevant lab activities to reinforce your understanding of the techniques or technologies involved. Then return to the case study with improved knowledge and confidence. You are expected to complete all parts of the activity and persist through challenges — troubleshooting is a core learning objective in ICT535 and a valuable professional skill.
+If you encounter difficulties, revisit the relevant lab activities to reinforce your understanding of the techniques or technologies involved. Then return to the case study with improved knowledge and confidence. You are expected to complete all parts of the activity and persist through challenges — troubleshooting is a core learning objective in ICT291 and a valuable professional skill.
 
-The case study is structured around five cumulative milestones, with each stage building on the successful completion of previous exer                cises. It is essential to complete the tasks in order and correct any errors before progressing.
+The case study is structured around five cumulative milestones, with each stage building on the successful completion of previous exercises. It is essential to complete the tasks in order and correct any errors before progressing.
 
-This task is not formally assessed, but it is **crucial for your learning and practical exam preparation**. 
+This task is not formally assessed, but there are a series of four VR (Virtual Reality) vivas, that simulate face-to-face conversations that are representative of work in network design and management role. Thisk of the case study as your day job in a networking environment.  If you don't engage at work, you can't expect to be able to interact with management, colleagues and clients in a meaningful way, and this affect your result.  Being familiar with the case study and siulated environment is also crucial for your learning and practical exam preparation.  In the case of the practical exam, the network and context will be your case study network.  IE the network you will manage and troubleshoot during the exam is the same network you built in the case study.
 
 ---
 
@@ -192,20 +227,20 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 
 | Week | Date commencing | Readings    | Topic                                      | Assessment due date       |
 |:----:|:------------:|-------------|--------------------------------------------|---------------------------|
-| 1    | 28-Jul-2025  | SRWE 2 & 14 | Introduction & Layer 2/3 revision          |                           |
-| 2    | 04-Aug-2025  | ENSA 11     | Scalable Network Design                    | Case study 1, IOS Basics/EVE<br>(Formative - self assessment)|
-| 3    | 11-Aug-2025  | SRWE 5       | LAN Redundancy and STP  802.1d  |                           |
-| 4    | 18-Aug-2025  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  |
-| 5    | 25-Aug-2025  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols|Case study 2 STP<br>(Formative - self assessment) |
-| 6    | 01-Sep-2025  |               | **[  Independent Study Week  ]**  |**Midsemester Exam**<br>Friday, 5th September 2025, 2:30PM|
-| 7    | 08-Sep-2025  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF |Case study 3 VLAN routing<br>(Formative - self assessment)|
-| 8    | 15-Sep-2025  |               | OSPF multi-area and Summarisation |                           |
-| 9    | 22-Sep-2025  | ENSA 4 & 5    |Access Control Lists (ACL)         | Case study 4 OSPF/end-to-end<br>(Formative - self assessment) |
-| 10   | 29-Sep-2025  |               | **[  Independent Study Week  ]**  |                           |
-| 11   | 06-Oct-2025  | ENSA 6        |ACL continued Implementing NAT          |                           |
-| 12   | 13-Oct-2025  | SRWE 9        | First hop redundancy HSRP / VRRP |Case study submission 5 ACL / Internet<br>(Formative - self assessment)|
-| 13   | 20-Oct-2025  |              | No Classes this week Study for your practical                              |**Practical Exam**<br>Saturday 25th October<br>1:30PM|
-| 14   | 27-Oct-2025  |            | Review                              |                           |
+| 1    | 23-Feb-2026  | SRWE 2 & 14 | Introduction & Layer 2/3 revision          |                           |
+| 2    | 02-Mar-2026  | ENSA 11     | Scalable Network Design                    | Viva 1 - Job interview<br>(Formative - Feedback but no marks)|
+| 3    | 09-Mar-2026  | SRWE 5       | LAN Redundancy and STP  802.1d  |                           |
+| 4    | 16-Mar-2026  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  | Viva 2 - Tech conversation with supervisor<br>(Held in lab)|
+| 5    | 23-Mar-2026  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols| |
+| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF | Viva 3 - Onboarding a new hire<br>(Held in lab)| 
+| 7    | 06-Apr-2026  |               | **[  Independent Study Week  ]**  ||
+| 8    | 13-Apr-2026  |               | OSPF multi-area and Summarisation ||
+| 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         | Viva 4 - Stakeholder presentation|
+| 10   | 27-Apr-2026  |               | **[  Independent Study Week  ]**  |                           |
+| 11   | 04-May-2026  | ENSA 6        |ACL continued Implementing NAT          ||
+| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP | Viva 5 - Network operations centre|
+| 13   | 18-May-2026  |              | No classes this week Study for your practical |** TBA PRAC **|
+| 14   | 25-May-2026  |            | Review                              |                           |
 
 ---
 
@@ -216,57 +251,49 @@ Assessment for this unit is conducted in accordance with the [Assessment Procedu
 
 | # | Assessment Name | Unit Learning Outcomes | Weight % |Individual or Group | Due Date and Time    |
 |:-:|-----------------|:----------------------:|:--------:|--------------------|:--------------------:|
-| 1 |Midsemester Exam | 1,2,3,4                | 30       |Individual          |Friday, 5th September 2025, 2:30PM    |
-| 2 |Practical Exam   | 1,3,4,5                | 30       |Individual          |Saturday 25th October 2025, 1:30PM    |
-| 3 |Final Exam       | 1,2,3,4                | 40       |Individual          |University Exam Period|
+| 1 |Case Study vivas | 1,2,3,4                | 20       |Individual          |During lab sessions as indicated in the schedule|
+| 2 |Practical Exam   | 1,3,4,5                | 30       |Individual          |**TBA**                   |
+| 3 |Final Exam       | 1,2,3,4                | 50       |Individual          |University Exam Period|
 
 
 ### 5.2 Assessment information
-#### 5.2.1 Assessment 1 - Midsemster Exam
+#### 5.2.1 Assessment 1 - Case Study vivas
 **ASSESSMENT DESCRIPTION**
 
-- 90 minute duration.
-- 30% of the unit grade.
-- Held during the first Independent Study Week
-    - Friday, 5th September 2025
-    - 2:30 PM - 4:00 PM
-- Closed book, invigilated exam.
+- 20% of the unit grade.
+- four x 10-15 minute minute duration.
+- Held during the lab sessions as indicated in the schedule
+- Closed book, no notes unless told otherwise.
 
-The exam will be cover the topics covered in the first five weeks of the unit. This includes: general principles of scalable design; layer 2 concepts, including STP (Spanning Tree Protocol) and general principles of routing.
-
-**HOW TO SUBMIT**
-
-The exam will be held undersupervised conditions in a computer lab. The exam will be conducted using LMS and may feature multiple choice, short answer, calculation and longer answer questions. 
+The vivas involve a brief VR "conversation" with individuals (AI based) involved in the case study's Hotel California group.  The conversations will take place in a range of different contexts and with different stakeholders. Some will be informal conversations with colleagues, while others will be more formal.  For example a job interview and fielding questions from the audience in support of your boss during a presentation to the Hotel California board.
 
 **HOW IT IS ASSESSED** (summary)
 
-You will be assessed on these key criteria:
-- Where possible questions are autograde using the LMS quiz tool.
-- Where questions are entered as short typed text (for example an IP address), answers graded by LMS as incorrect are manually checked for typos.  Errors that are not related to the validity of the answer, such as white space or uneccessary text that doesn't undermine the answer, may be manually graded.
-- Written paragraph answers are graded manually using a marking guide. If there are multiple graders, every effort will be made to have the same person grade all of the instances of a given question to ensure consistency of marking for all students.
+In the course of these conversations, you will be prompted to discuss and explain aspects of the Hotel California network and broader technology questions relating to recent topics. You will recieve a mark based on the accuracy quality of your responses as well as receiving formative feedback on your communication skills.
+
+There are 5 such conversations, but the first session "Job Interview" is not formally assessed.  It is designed to familiarise you with the techonolgy and assessment process.
 
 **FEEDBACK FOR LEARNING**
 
-- Your results will be visible with in LMS.
-- Student's have the right to view their exam to see where they have gone wrong. Arrangements for providing this feedback will be communicated during the semester. Pleae approach the teaching staff if you have not had this opportunity.
+- Your results will be visible within LMS.
+- The VR/AI system will provide an analysis of your answers.
+- The unit coordinators will mark your recorded viva, supported by data provided by the AI system.
 
 **GUIDELINES for SUCCESS**
 
 - Fully engage with the weekly labs and struggle through any problems until they are resolved.
 - Complete the case studies aiming for 100% completion.  This means you are actively trying to resolve issues and understanding every week.
 
-A common issue for students answering written question is failing to answer the question that is asked.  It does not matter whether you answer is a correct statement if it does not answer the question being asked.  Read the questions carefully.
-
 **FURTHER DETAILS**
 
-See myMurdoch Learning for further details, such as instructions, communication and a sample exam.
+See myMurdoch Learning for further details
 
 #### 5.2.2 Assessment 2 - Practical exam
 **ASSESSMENT DESCRIPTION**
 
-- 2 Hrs duration.
+- (TBA) duration.
 - 30% of the unit grade.
-- Saturday 25th October 2025, 1:30PM
+- Held (TBA)
 - Closed book, invigilated exam.
     - No electronic aids
     - No use of computer tools such as “Windows Calculator”
@@ -307,7 +334,7 @@ See myMurdoch Learning for further details, such as instructions, communication 
 **ASSESSMENT DESCRIPTION**
 
 - 90 minutes duration.
-- 40% of the unit grade.
+- 50% of the unit grade.
 - Held during the University examinations period. 
 - Free navigation, you can return to already answered questions
 - Closed book, invigilated exam.
@@ -386,7 +413,6 @@ and/or
     - [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings)
     - Teams
     - Echo360
-    - PebblePad
 
 The specific types of learning resources that we use include:
 
@@ -397,7 +423,7 @@ These are the learning resources that you should use:
 |---------------------------|-------------------------------------------|----------------------------|
 | Unit resources            | Various               | [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings) |
 | Cisco netacad             |                                           |                            |
-| EVE-NG Simulator          |                                           |                            |
+| EVE-NG Simulator          | Cloud based network emulator              | Accounts are allocated by week 2 |
 |                           |                                           |                            |
 
 Other resources and further recommended resources are in our myMurdoch Learning.
