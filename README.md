@@ -166,6 +166,7 @@ Email:
 joseph.stevens@murdoch.edu.au
 Phone:
 618 9360 2798
+
 | <img src="img/uc2-photo.jpg" alt="Joe Stevens photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |   |
 |---------------|-----------------------------------------| 
 | **Name:**     | Joe Stevens                          |
@@ -228,19 +229,19 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 | Week | Date commencing | Readings    | Topic                                      | Assessment due date       |
 |:----:|:------------:|-------------|--------------------------------------------|---------------------------|
 | 1    | 23-Feb-2026  | SRWE 2 & 14 | Introduction & Layer 2/3 revision          |                           |
-| 2    | 02-Mar-2026  | ENSA 11     | Scalable Network Design                    | Viva 1 - Job interview<br>(Formative - Feedback but no marks)|
+| 2    | 02-Mar-2026  | ENSA 11     | Scalable Network Design                    | Viva demo - Job interview<br>(Formative - Feedback but no marks)|
 | 3    | 09-Mar-2026  | SRWE 5       | LAN Redundancy and STP  802.1d  |                           |
-| 4    | 16-Mar-2026  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  | Viva 2 - Tech conversation with supervisor<br>(Held in lab)|
+| 4    | 16-Mar-2026  | ENSA 13.4-5  | Rapid STP and alternatives to STP and Spine-Leaf model  | Viva 1 - Tech conversation with supervisor<br>(Held in lab)|
 | 5    | 23-Mar-2026  | SRWE 3 (revision) 6 & 4 | Link Aggregation, InterVLAN routing,Routing principles and protocols| |
-| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF | Viva 3 - Onboarding a new hire<br>(Held in lab)| 
+| 6    | 30-Mar-2026  | SRWE 14 (revision) ENSA  1 & 2| Introduction to OSPF | Viva 2 - Onboarding a new hire<br>(Held in lab)| 
 | 7    | 06-Apr-2026  |               | **[  Independent Study Week  ]**  ||
 | 8    | 13-Apr-2026  |               | OSPF multi-area and Summarisation ||
-| 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         | Viva 4 - Stakeholder presentation|
+| 9    | 20-Apr-2026  | ENSA 4 & 5    |Access Control Lists (ACL)         ||
 | 10   | 27-Apr-2026  |               | **[  Independent Study Week  ]**  |                           |
 | 11   | 04-May-2026  | ENSA 6        |ACL continued Implementing NAT          ||
-| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP | Viva 5 - Network operations centre|
-| 13   | 18-May-2026  |              | No classes this week Study for your practical |** TBA PRAC **|
-| 14   | 25-May-2026  |            | Review                              |                           |
+| 12   | 11-May-2026  | SRWE 9        | First hop redundancy HSRP / VRRP | Viva 3 - Logical Design Presentation|
+| 13   | 18-May-2026  |              | Final Exam Revision | Practice Prac Exam And VR Viva make up|
+| 14   | 25-May-2026  |            | No Lecture                              | Practical Exam (during lab session) |
 
 ---
 
@@ -266,6 +267,7 @@ Assessment for this unit is conducted in accordance with the [Assessment Procedu
 - Closed book, no notes unless told otherwise.
 
 The vivas involve a brief VR "conversation" with individuals (AI based) involved in the case study's Hotel California group.  The conversations will take place in a range of different contexts and with different stakeholders. Some will be informal conversations with colleagues, while others will be more formal.  For example a job interview and fielding questions from the audience in support of your boss during a presentation to the Hotel California board.
+[**2026 Change - The final Viva is cancelled due to equipment access issues outside the Unit Coordinators' control.  All students are given 100% for the viva**]
 
 **HOW IT IS ASSESSED** (summary)
 
@@ -293,7 +295,7 @@ See myMurdoch Learning for further details
 
 - (TBA) duration.
 - 30% of the unit grade.
-- Held (TBA)
+- Held (Week 14 lab session)
 - Closed book, invigilated exam.
     - No electronic aids
     - No use of computer tools such as “Windows Calculator”
